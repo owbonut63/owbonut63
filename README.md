@@ -1,10 +1,10 @@
                                                    🔴🟢🟡     root@owbonut    ⎯⠀❐⠀⤬
 
-```root@owbonut:~# cd Private && ls
+```root@owbonut:~# cd Private && ls```
 
-  information.txt
+  ```information.txt```
   
-root@owbonut:~# cat information.txt```
+```root@owbonut:~# cat information.txt```
 
 ## File: /home/owbonut63/information.txt
 - 🌀 Discord: >_Owbonut63#3985
