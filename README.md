@@ -2,7 +2,7 @@
 
 ```root@owbonut:~# cd Private && ls```
 
-  ```information.txt```
+      ```information.txt```
   
 ```root@owbonut:~# cat information.txt```
 
