@@ -1,4 +1,4 @@
-                                            🔴🟢🟡     root@owbonut    ⎯⠀❐⠀⤬
+                                            🔴🟢🟡    root@owbonut    ⎯⠀❐⠀⤬
 
 ```root@owbonut:~# cd Private && ls```
 
